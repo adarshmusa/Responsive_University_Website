@@ -1,0 +1,17 @@
+old blue scheme
+high sat - #5aa5e8
+hero btn -  #5aa5e8
+low sat - #deecfa
+very solid - #014085
+
+new maroon scheme
+high sat - #924545
+hero-btn - #924545
+low sat - #fff5f5
+very solid - #924545
+
+campus images res
+502x711
+
+facilities images res
+272x78
